@@ -1,0 +1,1 @@
+riginal_time % new_time
